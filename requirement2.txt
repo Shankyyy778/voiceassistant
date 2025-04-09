@@ -1,0 +1,13 @@
+flask
+gtts
+SpeechRecognition
+langchain
+langchain-groq
+langchain-pinecone
+langchain-ollama
+langchain-community
+langchain-core
+pinecone-client
+tqdm
+python-dotenv
+pypdf

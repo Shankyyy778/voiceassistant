@@ -1,0 +1,29 @@
+"What are the core values of Interia, and how do they influence the company's design approach?" (Tests the AI's understanding of company philosophy.)
+
+"Can you outline the typical design process for a luxury residential project with Interia, including key milestones and payment schedules?" (Checks the AI's grasp of workflow and financial structure.)
+
+"What are some of Interia's preferred material brands for kitchen and bathroom designs, and why are they chosen?" (Assesses knowledge of high-end suppliers and sustainability.)
+
+"If a client has a 4,000 sq. ft. apartment and wants a premium turnkey solution, what would be the estimated cost range and timeline?" (Tests the AI's ability to reference pricing and project duration.)
+
+"How does Interia handle post-completion support, and what warranties do they offer on their work?" (Evaluates understanding of client care and after-service policies.)
+
+Greeting & Initial Engagement
+"Hi, I’m interested in luxury interior design services."
+(Expected: Warm greeting + brief service overview + follow-up questions about budget/timeline.)
+
+Service Inquiry
+"What’s included in your turnkey residential design package?"
+(Expected: Detailed breakdown of services from the knowledge base + offer to connect with a designer.)
+
+Project-Specific Query
+"I have a 3,500 sq. ft. home in Delhi. How long would a full redesign take, and what’s the cost range?"
+(Expected: Reference to typical timelines/pricing tiers + ask for specific requirements + consultation offer.)
+
+Post-Service Support
+"Do you provide warranties or maintenance after project completion?"
+(Expected: Summary of warranties from the knowledge base + offer to discuss annual maintenance.)
+
+Edge Case (Outside KB Scope)
+"Can you design a commercial office space?"
+(Expected: Polite acknowledgment that Interia specializes in residential projects + offer to refer to a trusted partner.)
